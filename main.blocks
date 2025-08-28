@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Rob3XO4+y$y|sV?huk(?">sonido</variable></variables><block type="pxt-on-start" id="(UlK/1kEzvJC13KCiDR;" x="20" y="20"></block><block type="device_forever" id="W_[qrlYwbrAoWsje.spN" x="225" y="20"><statement name="HANDLER"><block type="variables_set" id=")Tk+U-NlM0UPgS$dJ1Wk"><field name="VAR" id="Rob3XO4+y$y|sV?huk(?">sonido</field><value name="VALUE"><shadow type="math_number" id="(SsyX-B^;@;Zr[M.bsh_"><field name="NUM">0</field></shadow><block type="device_get_sound_level" id="]`f|0dfb]gXn]g|ERwcf"></block></value><next><block type="device_show_number" id="iRWo7.uhNT(V@cRCSO@G"><value name="number"><shadow type="math_number" id="~LE.5@f:ppP306ua-+q;"><field name="NUM">0</field></shadow><block type="variables_get" id="Y!gAG7Ce$8gI{,AqXG=="><field name="VAR" id="Rob3XO4+y$y|sV?huk(?">sonido</field></block></value></block></next></block></statement></block></xml>
